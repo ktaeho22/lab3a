@@ -15,3 +15,12 @@ textarea {
     max-width: 500px;
     height: 100px;
 }
+
+
+.footer {
+  padding-top: 10%;
+  display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
